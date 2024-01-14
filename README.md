@@ -4,7 +4,7 @@
 
 ## Overview
 
-Academia is an innovative chatbot project designed to provide users with a dynamic and accessible conversational experience. The chatbot supports both text and speech inputs and utilizes a pre-trained neural network for intelligent responses. The accompanying web interface enhances user interaction, offering a seamless platform for communication.
+Academia is a dedicated chatbot project created for IIIT Naya Raipur, designed to provide users with a dynamic and accessible conversational experience. The chatbot supports both text and speech inputs and utilizes a pre-trained neural network for intelligent responses. The accompanying web interface enhances user interaction, offering a seamless platform for communication.
 
 ## Key Features
 
@@ -19,3 +19,4 @@ Academia is an innovative chatbot project designed to provide users with a dynam
 - **Backend:** Python, Flask, PyTorch
 - **Frontend:** HTML, CSS, JavaScript
 - **Speech Recognition:** SpeechRecognition library
+- **Dataset:** Custom dataset created for IIIT Naya Raipur
